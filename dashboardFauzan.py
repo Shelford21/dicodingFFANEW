@@ -56,7 +56,7 @@ daily_orders_df = create_daily_orders_df(main_df)
 
 
 # plot number of daily orders (2021)
-st.header('Dicoding Data Scientist:100:')
+st.header('Dicoding Data Scientist 🚴')
 st.subheader('Bike Sharing Dataset')
 
 col1, col2 = st.columns(2)
